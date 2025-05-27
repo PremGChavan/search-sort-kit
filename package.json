@@ -1,0 +1,19 @@
+{
+  "name": "search-sort-kit",
+  "version": "1.0.0",
+  "description": "A lightweight and beginner-friendly JavaScript utility library for popular search and sort algorithms including binary search, merge sort, quicksort, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PremGChavan/search-sort-kit.git"
+  },
+  "keywords": [
+    "search", "sort", "algorithm", "javascript", "binary search", "merge sort", "quick sort", "linear search", "utils"
+  ],
+
+  "author": "Prem Chavan",
+  "license": "ISC"
+}
